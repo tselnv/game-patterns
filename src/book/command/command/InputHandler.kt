@@ -1,7 +1,6 @@
-package book.command
+package book.command.command
 
-import book.Game
-import book.Main
+import book.command.Game
 
 class InputHandler{
 

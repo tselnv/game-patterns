@@ -1,7 +1,7 @@
-package book
+package book.command
 
-import book.actors.GameActor
-import book.command.InputHandler
+import book.command.actors.GameActor
+import book.command.command.InputHandler
 
 class Main {
 

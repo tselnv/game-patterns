@@ -1,6 +1,6 @@
-package book.command
+package book.command.command
 
-import book.actors.GameActor
+import book.command.actors.GameActor
 
 class LurchCommand: Command(){
     override fun execute(actor: GameActor) {
