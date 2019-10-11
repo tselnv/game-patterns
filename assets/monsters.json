@@ -1,0 +1,14 @@
+{
+  "Troll": {
+    "health": 25,
+    "attack": "The troll hits you!"
+  },
+  "Troll Archer": {
+    "parent": "Troll",
+    "attack": "The troll archer fires an arrow!"
+  },
+  "Troll Wizard": {
+    "parent": "Troll",
+    "attack": "The troll wizard casts a spell on you!"
+  }
+}
